@@ -1,4 +1,4 @@
-var math = require("../my-app");
+const math = require("../my-app");
 
 describe("add feature", () => {
     let numberOne;
